@@ -15,9 +15,11 @@
 Because CodedUI tests are Premium! http://stackoverflow.com/questions/7106251/microsoft-visualstudio-testtools-uitest-dll
 
 #JS
+1. [WinJS github](https://github.com/winjs/winjs)
 1. [UWA with WinJS - Video tutorial](https://mva.microsoft.com/en-us/training-courses/developing-universal-windows-apps-with-html-and-javascript-jump-start-8344?l=WabedTEz_704984382)
 2. [angular-winjs - Project to smooth the AngularJS/WinJS interaction](https://github.com/winjs/angular-winjs)
 
 ##JS testing
 1. [unit and UI testing for winjs (and generally js) apps](https://qunitjs.com/) 
 2. [Testing WinJS apps with MOCHA](http://staxmanade.com/2015/05/running-in-app-mocha-tests-within-winjs/)
+3. [BDD - Pavlov](https://github.com/mmonteleone/pavlov)
