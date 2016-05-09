@@ -12,7 +12,9 @@
 
 ## Why we cannot use Csharp
 
-Because CodedUI tests are Premium! http://stackoverflow.com/questions/7106251/microsoft-visualstudio-testtools-uitest-dll
+Because CodedUI tests are Premium! [Stack Overflow thread](http://stackoverflow.com/questions/7106251/microsoft-visualstudio-testtools-uitest-dll)
+
+Also, check **Testing Tools** on the [Official Visual Studio page](https://www.visualstudio.com/en-us/products/compare-visual-studio-2015-products-vs.aspx)
 
 #JS
 1. [WinJS github](https://github.com/winjs/winjs)
