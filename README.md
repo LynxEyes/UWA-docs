@@ -10,6 +10,10 @@
 4. [How to unit test a Windows 10 app in Visual Studio?](https://xunit.github.io/docs/getting-started-uwp.html)
 5. [C# 6 features that help you write cleaner code](http://programmingwithmosh.com/csharp/csharp-6-features-that-help-you-write-cleaner-code/)
 
+## Why we cannot use Csharp
+
+Because CodedUI tests are Premium! http://stackoverflow.com/questions/7106251/microsoft-visualstudio-testtools-uitest-dll
+
 #JS
 1. [UWA with WinJS - Video tutorial](https://mva.microsoft.com/en-us/training-courses/developing-universal-windows-apps-with-html-and-javascript-jump-start-8344?l=WabedTEz_704984382)
 2. [angular-winjs - Project to smooth the AngularJS/WinJS interaction](https://github.com/winjs/angular-winjs)
