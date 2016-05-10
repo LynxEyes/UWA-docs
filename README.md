@@ -22,6 +22,9 @@ Also, check **Testing Tools** on the [Official Visual Studio page](https://www.v
 1. [UWA with WinJS - Video tutorial](https://mva.microsoft.com/en-us/training-courses/developing-universal-windows-apps-with-html-and-javascript-jump-start-8344?l=WabedTEz_704984382)
 2. [angular-winjs - Project to smooth the AngularJS/WinJS interaction](https://github.com/winjs/angular-winjs)
 
+## AngularJS
+0. [Style Guide](https://github.com/mgechev/angularjs-style-guide)
+
 ##JS testing
 1. [unit and UI testing for winjs (and generally js) apps](https://qunitjs.com/) 
 2. [Testing WinJS apps with MOCHA](http://staxmanade.com/2015/05/running-in-app-mocha-tests-within-winjs/)
