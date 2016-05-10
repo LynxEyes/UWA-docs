@@ -26,3 +26,4 @@ Also, check **Testing Tools** on the [Official Visual Studio page](https://www.v
 1. [unit and UI testing for winjs (and generally js) apps](https://qunitjs.com/) 
 2. [Testing WinJS apps with MOCHA](http://staxmanade.com/2015/05/running-in-app-mocha-tests-within-winjs/)
 3. [BDD - Pavlov](https://github.com/mmonteleone/pavlov)
+4. [UI Test Automation for Browsers and Apps Using the WebDriver Standard](https://channel9.msdn.com/Events/Build/2016/P499)
