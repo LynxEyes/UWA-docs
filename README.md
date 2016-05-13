@@ -46,3 +46,12 @@ Also, check **Testing Tools** on the [Official Visual Studio page](https://www.v
 
 ## Why we cannot use chutzpah
 0. It runs tests inside phantom js, not injecting Windows.* namespaces ([Chutzpah](https://github.com/mmanela/chutzpah))
+
+## VisualStudio TroubleShooting
+
+When debugging tests in apps using Template10, the following error <s>will</s> may occur:
+
+![Pic](/AnotherDayWithVisualStudio.png)
+
+In that case, follow VS suggestion and click in the link `Get general help for this exception.` 
+There you will find instructions to turn off the Just My Code debugging option.
