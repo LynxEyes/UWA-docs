@@ -10,6 +10,18 @@
 4. [How to unit test a Windows 10 app in Visual Studio?](https://xunit.github.io/docs/getting-started-uwp.html)
 5. [C# 6 features that help you write cleaner code](http://programmingwithmosh.com/csharp/csharp-6-features-that-help-you-write-cleaner-code/)
 
+## Getting The APP ID to use with Appium (Windows App Driver)
+
+Get the `Package family name` from the Package.appxmanifest > Packaging tab
+
+![Pic](/GettingTheAppID.png)
+
+```c#
+DesiredCapabilities appCapabilities = new DesiredCapabilities();
+appCapabilities.SetCapability("app", "cf59c34d-6a44-4b82-9029-ad2fc3cc2611_xnnwpqakf2yqj!App");
+```
+
+
 ## Why we cannot use Csharp
 
 Because CodedUI tests are Premium! [Stack Overflow thread](http://stackoverflow.com/questions/7106251/microsoft-visualstudio-testtools-uitest-dll)
