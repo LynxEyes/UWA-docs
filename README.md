@@ -55,3 +55,13 @@ When debugging tests in apps using Template10, the following error <s>will</s> m
 
 In that case, follow VS suggestion and click in the link `Get general help for this exception.` 
 There you will find instructions to turn off the Just My Code debugging option.
+
+### Unable to run UnitTests
+
+There seems to be some issues between Template10 and MVVMLight that might cause tests not to run while yielding something like:
+
+```
+A user callback threw an exception.  Check the exception stack and inner exception to determine the callback that failed.
+```
+
+Looking at [this github issue comment](https://github.com/Windows-XAML/Template10/issues/464#issuecomment-210038007) the solution is to add the `[Bindable]` annotation to the `Locator` class.
