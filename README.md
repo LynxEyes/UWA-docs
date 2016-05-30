@@ -61,3 +61,9 @@ To stop tests from running in parallel, just create a `App.config` file on the U
   </appSettings>
 </configuration>
 ```
+
+### Problems handling ENTER key with KeyDown on a TextBox
+
+It seems that ENTER triggers 2 events! This is a known bug by Microsoft since 2013 and still they did nothing to correct: 
+- [This thread on SO](http://stackoverflow.com/questions/11372969/c-sharp-textbox-keydown-triggered-twice-in-metro-applications)
+- [This thread on MSDN](https://social.msdn.microsoft.com/Forums/en-US/734d6c7a-8da2-48c6-9b3d-fa868b4dfb1d/c-textbox-keydown-triggered-twice-in-metro-applications?forum=winappswithcsharp)
