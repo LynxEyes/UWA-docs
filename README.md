@@ -16,6 +16,12 @@ In order to use SQLite on a Universal Windows Platform, you need to install a VS
 
 ![Pic](/VS-SQLite_for_UWP.png)
 
+### Appium - Windows App Driver
+
+Appium is a tool to perform automated UI tests. In order to use it you need to install the tool. Please visit: [WinAppDriver](https://github.com/Microsoft/WinAppDriver)
+
+You can obtain the installer itself [here](http://download.microsoft.com/download/6/8/7/687DEE85-E907-4A95-8035-8BC969B9EA95/WindowsApplicationDriver.msi)
+
 ### Getting The APP ID to use with Appium (Windows App Driver)
 
 Get the `Package family name` from the Package.appxmanifest > Packaging tab
