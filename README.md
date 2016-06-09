@@ -10,6 +10,12 @@
 4. [How to unit test a Windows 10 app in Visual Studio?](https://xunit.github.io/docs/getting-started-uwp.html)
 5. [C# 6 features that help you write cleaner code](http://programmingwithmosh.com/csharp/csharp-6-features-that-help-you-write-cleaner-code/)
 
+### SQLite for Universal Windows Platform
+
+In order to use SQLite on a Universal Windows Platform, you need to install a VS specific extension:
+
+![Pic](/VS-SQLite_for_UWP.png)
+
 ### Getting The APP ID to use with Appium (Windows App Driver)
 
 Get the `Package family name` from the Package.appxmanifest > Packaging tab
