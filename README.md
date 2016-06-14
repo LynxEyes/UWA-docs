@@ -38,6 +38,9 @@ appCapabilities.SetCapability("app", "cf59c34d-6a44-4b82-9029-ad2fc3cc2611_xnnwp
 
 * CodedUI tests are Premium! [Stack Overflow thread](http://stackoverflow.com/questions/7106251/microsoft-visualstudio-testtools-uitest-dll)
 * Also, check **Testing Tools** on the [Official Visual Studio page](https://www.visualstudio.com/en-us/products/compare-visual-studio-2015-products-vs.aspx)
+* Can't TDD webview related stuff - Appium `session.Contexts` blows up!
+
+![Pic](https://s-media-cache-ak0.pinimg.com/736x/c4/b8/83/c4b8834dc60dd504f287b7a1232bc34e.jpg)
 
 ## VisualStudio TroubleShooting
 
